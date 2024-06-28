@@ -1,4 +1,8 @@
-const cards = [
+const{
+    image: "./public/img/dalam cafe",
+    title: "Project",
+    link: "https://example.com/page11",
+  }, 
   {
     image: "./public/img/p1.png",
     title: "Project",
